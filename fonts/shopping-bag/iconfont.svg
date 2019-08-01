@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shopping-bag--fill" unicode="&#59308;" d="M277.333333 810.666667h469.333334a42.666667 42.666667 0 0 0 34.133333-17.066667L896 640v-640a42.666667 42.666667 0 0 0-42.666667-42.666667H170.666667a42.666667 42.666667 0 0 0-42.666667 42.666667V640l115.2 153.6a42.666667 42.666667 0 0 0 34.133333 17.066667z m512-170.666667L725.333333 725.333333H298.666667L234.666667 640h554.666666zM384 469.333333H298.666667v-85.333333a213.333333 213.333333 0 0 1 426.666666 0v85.333333h-85.333333v-85.333333a128 128 0 0 0-256 0v85.333333z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
